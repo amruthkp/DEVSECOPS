@@ -2,4 +2,5 @@
 
 
 
-## [Application Vulnerability Scanning](https://github.com/amruthkp/DEVSECOPS/tree/main/Application%20Vulnerability%20Scanning)
+## Application Vulnerability Scanning
+### 1.Setup Secrets Scanning in GitLab CI and Pre-Commit Script using GitLeaks
